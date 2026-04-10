@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pointlyAPI", "pointlyAPI.csproj", "{F246839A-959D-5E72-9CD5-73D5B9E9A10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F246839A-959D-5E72-9CD5-73D5B9E9A10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F246839A-959D-5E72-9CD5-73D5B9E9A10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F246839A-959D-5E72-9CD5-73D5B9E9A10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F246839A-959D-5E72-9CD5-73D5B9E9A10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58ACDAA3-2072-4D05-A908-0CF41597E677}
+	EndGlobalSection
+EndGlobal
