@@ -10,7 +10,7 @@ namespace Pointly.Models
 
     public class User
     {
-        public int ID {get; set; }
+        public int Id {get; set; }
         public String Email {get; set;} = string.Empty;
         public String PasswordHash {get; set;} = string.Empty;
         public String FullName {get; set;} = string.Empty;

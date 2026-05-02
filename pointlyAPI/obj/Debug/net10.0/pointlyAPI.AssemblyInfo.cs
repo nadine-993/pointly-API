@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pointlyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa4a76eb70166bd30c018d024d73a02536ef61a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c026c153fb73b638076335e8e9ee295c591ed928")]
 [assembly: System.Reflection.AssemblyProductAttribute("pointlyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pointlyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
