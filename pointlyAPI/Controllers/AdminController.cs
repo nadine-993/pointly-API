@@ -38,7 +38,7 @@ namespace Pointly.Controllers
             var adminUser = new User
             {
                 Email = "admin@pointly.com",
-                PasswordHash = BCrypt.Net.BCrypt.HashPassword ("Admin!123"),
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword ("Admin123!"),
                 FullName= "System Administrator",
                 PhoneNumber = "+1234566454",
                 Role = UserRole.Admin,
